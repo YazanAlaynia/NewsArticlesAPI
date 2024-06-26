@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yazan\\source\\repos\\NewsArticlesApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46D4D07F-71C0-4AC5-B0D7-D696ADEB7150}|NewsArticlesApi\\NewsArticlesApi.csproj|c:\\users\\yazan\\source\\repos\\newsarticlesapi\\newsarticlesapi\\controllers\\newsarticlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D4D07F-71C0-4AC5-B0D7-D696ADEB7150}|NewsArticlesApi\\NewsArticlesApi.csproj|solutionrelative:newsarticlesapi\\controllers\\newsarticlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D4D07F-71C0-4AC5-B0D7-D696ADEB7150}|NewsArticlesApi\\NewsArticlesApi.csproj|c:\\users\\yazan\\source\\repos\\newsarticlesapi\\newsarticlesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D4D07F-71C0-4AC5-B0D7-D696ADEB7150}|NewsArticlesApi\\NewsArticlesApi.csproj|solutionrelative:newsarticlesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D4D07F-71C0-4AC5-B0D7-D696ADEB7150}|NewsArticlesApi\\NewsArticlesApi.csproj|c:\\users\\yazan\\source\\repos\\newsarticlesapi\\newsarticlesapi\\services\\repository\\newsarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D4D07F-71C0-4AC5-B0D7-D696ADEB7150}|NewsArticlesApi\\NewsArticlesApi.csproj|solutionrelative:newsarticlesapi\\services\\repository\\newsarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D4D07F-71C0-4AC5-B0D7-D696ADEB7150}|NewsArticlesApi\\NewsArticlesApi.csproj|c:\\users\\yazan\\source\\repos\\newsarticlesapi\\newsarticlesapi\\handlers\\newsarticlehandlers\\updatenewsarticlehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D4D07F-71C0-4AC5-B0D7-D696ADEB7150}|NewsArticlesApi\\NewsArticlesApi.csproj|solutionrelative:newsarticlesapi\\handlers\\newsarticlehandlers\\updatenewsarticlehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D4D07F-71C0-4AC5-B0D7-D696ADEB7150}|NewsArticlesApi\\NewsArticlesApi.csproj|c:\\users\\yazan\\source\\repos\\newsarticlesapi\\newsarticlesapi\\handlers\\imagehandlers\\updateimagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D4D07F-71C0-4AC5-B0D7-D696ADEB7150}|NewsArticlesApi\\NewsArticlesApi.csproj|solutionrelative:newsarticlesapi\\handlers\\imagehandlers\\updateimagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D4D07F-71C0-4AC5-B0D7-D696ADEB7150}|NewsArticlesApi\\NewsArticlesApi.csproj|c:\\users\\yazan\\source\\repos\\newsarticlesapi\\newsarticlesapi\\commands\\newsarticlecommands\\updatenewarticlecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D4D07F-71C0-4AC5-B0D7-D696ADEB7150}|NewsArticlesApi\\NewsArticlesApi.csproj|solutionrelative:newsarticlesapi\\commands\\newsarticlecommands\\updatenewarticlecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D4D07F-71C0-4AC5-B0D7-D696ADEB7150}|NewsArticlesApi\\NewsArticlesApi.csproj|c:\\users\\yazan\\source\\repos\\newsarticlesapi\\newsarticlesapi\\controllers\\likecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D4D07F-71C0-4AC5-B0D7-D696ADEB7150}|NewsArticlesApi\\NewsArticlesApi.csproj|solutionrelative:newsarticlesapi\\controllers\\likecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D4D07F-71C0-4AC5-B0D7-D696ADEB7150}|NewsArticlesApi\\NewsArticlesApi.csproj|c:\\users\\yazan\\source\\repos\\newsarticlesapi\\newsarticlesapi\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D4D07F-71C0-4AC5-B0D7-D696ADEB7150}|NewsArticlesApi\\NewsArticlesApi.csproj|solutionrelative:newsarticlesapi\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewsArticleController.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\source\\repos\\NewsArticlesApi\\NewsArticlesApi\\Controllers\\NewsArticleController.cs",
+              "RelativeDocumentMoniker": "NewsArticlesApi\\Controllers\\NewsArticleController.cs",
+              "ToolTip": "C:\\Users\\yazan\\source\\repos\\NewsArticlesApi\\NewsArticlesApi\\Controllers\\NewsArticleController.cs",
+              "RelativeToolTip": "NewsArticlesApi\\Controllers\\NewsArticleController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:01:29.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\source\\repos\\NewsArticlesApi\\NewsArticlesApi\\Program.cs",
+              "RelativeDocumentMoniker": "NewsArticlesApi\\Program.cs",
+              "ToolTip": "C:\\Users\\yazan\\source\\repos\\NewsArticlesApi\\NewsArticlesApi\\Program.cs",
+              "RelativeToolTip": "NewsArticlesApi\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T19:18:23.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewsArticleService.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\source\\repos\\NewsArticlesApi\\NewsArticlesApi\\Services\\Repository\\NewsArticleService.cs",
+              "RelativeDocumentMoniker": "NewsArticlesApi\\Services\\Repository\\NewsArticleService.cs",
+              "ToolTip": "C:\\Users\\yazan\\source\\repos\\NewsArticlesApi\\NewsArticlesApi\\Services\\Repository\\NewsArticleService.cs",
+              "RelativeToolTip": "NewsArticlesApi\\Services\\Repository\\NewsArticleService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:20:05.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateImageHandler.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\source\\repos\\NewsArticlesApi\\NewsArticlesApi\\Handlers\\ImageHandlers\\UpdateImageHandler.cs",
+              "RelativeDocumentMoniker": "NewsArticlesApi\\Handlers\\ImageHandlers\\UpdateImageHandler.cs",
+              "ToolTip": "C:\\Users\\yazan\\source\\repos\\NewsArticlesApi\\NewsArticlesApi\\Handlers\\ImageHandlers\\UpdateImageHandler.cs",
+              "RelativeToolTip": "NewsArticlesApi\\Handlers\\ImageHandlers\\UpdateImageHandler.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:11:12.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateNewsArticleHandler.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\source\\repos\\NewsArticlesApi\\NewsArticlesApi\\Handlers\\NewsArticleHandlers\\UpdateNewsArticleHandler.cs",
+              "RelativeDocumentMoniker": "NewsArticlesApi\\Handlers\\NewsArticleHandlers\\UpdateNewsArticleHandler.cs",
+              "ToolTip": "C:\\Users\\yazan\\source\\repos\\NewsArticlesApi\\NewsArticlesApi\\Handlers\\NewsArticleHandlers\\UpdateNewsArticleHandler.cs",
+              "RelativeToolTip": "NewsArticlesApi\\Handlers\\NewsArticleHandlers\\UpdateNewsArticleHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:10:23.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateNewArticleCommand.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\source\\repos\\NewsArticlesApi\\NewsArticlesApi\\Commands\\NewsArticleCommands\\UpdateNewArticleCommand.cs",
+              "RelativeDocumentMoniker": "NewsArticlesApi\\Commands\\NewsArticleCommands\\UpdateNewArticleCommand.cs",
+              "ToolTip": "C:\\Users\\yazan\\source\\repos\\NewsArticlesApi\\NewsArticlesApi\\Commands\\NewsArticleCommands\\UpdateNewArticleCommand.cs",
+              "RelativeToolTip": "NewsArticlesApi\\Commands\\NewsArticleCommands\\UpdateNewArticleCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:09:01.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LikeController.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\source\\repos\\NewsArticlesApi\\NewsArticlesApi\\Controllers\\LikeController.cs",
+              "RelativeDocumentMoniker": "NewsArticlesApi\\Controllers\\LikeController.cs",
+              "ToolTip": "C:\\Users\\yazan\\source\\repos\\NewsArticlesApi\\NewsArticlesApi\\Controllers\\LikeController.cs",
+              "RelativeToolTip": "NewsArticlesApi\\Controllers\\LikeController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwB4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:07:46.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\source\\repos\\NewsArticlesApi\\NewsArticlesApi\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "NewsArticlesApi\\Controllers\\CommentsController.cs",
+              "ToolTip": "C:\\Users\\yazan\\source\\repos\\NewsArticlesApi\\NewsArticlesApi\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "NewsArticlesApi\\Controllers\\CommentsController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:06:34.096Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
