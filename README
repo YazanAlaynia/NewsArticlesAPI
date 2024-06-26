@@ -5,36 +5,26 @@ This News Article API Interface build using .NET Core 8 and the CQRS design patt
 Key Points
 
 News Article Management :
-
 Create News Article :Allows users to create new news article ,with ability to upload images, add comments , and likes  .
-
 Update News Article : Allows users to update what include the news article . 
-
 Delete News Article : Allows users to remove the news article .
-
 Search for news article :Allows users to search about title news article or what this news article include 
 
 Comments And Likes And Images Management:
-
 Add Comment And Like  And Image : allows users to add comment and like and image to news article .
-
 Remove Comment And like And Image :allow user to remove command and like and image from news article .
-
 Edit Comment And Image : allows user to edit comments and image to news article.
   
 Architecture and Design Patterns 
 
 The News Article API Interface follows the CQRS (Command-Query Responsibility Segregation ) design pattern , which separates the read and write operations .This approach promotes better scalability , flexibility  , and maintainability of the API ,and uses Entity Framework Core to interact with the SQL Server database.
-
 Commands :The API uses commands to handle the create, update, and delete operations for news article and like and comment and image .These commends are handled by separate command handlers, which encapsulate the logic for performing these operation .
-
 Queries : The API uses queries to handle the search and retrieval operations of news article and comment and like and image .These queries  are handled by separate query handlers, which encapsulate the logic for performing these operation .
-
 Mediator Pattern : The API uses the Mediator pattern to decouple the controllers from the command and query handlers, improving the overall testability and maintainability of the codebase.  
-
 Entity Framework Core :The API uses Entity Framework Core as the Object-Relational Mapping(ORM) framework to interact with SQL Server database ,providing more abstraction and type-safe way of working with data.
 
 Tools And Techniques 
+
 ASP.NET Core Web API
 Entity Framework Core
 Swagger 
